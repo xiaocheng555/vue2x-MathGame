@@ -1,0 +1,1 @@
+cnpm install --save-dev babel-core  babel-loader babel-plugin-transform-object-rest-spread babel-plugin-transform-runtime babel-preset-es2015 css-loader style-loader
